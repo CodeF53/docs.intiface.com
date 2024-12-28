@@ -55,7 +55,7 @@ const sidebars = {
         'intiface-central/brands/intro', 
         'intiface-central/brands/kiiroo', 
         'intiface-central/brands/lovense',
-        //'intiface-central/brands/muse', 
+        'intiface-central/brands/muse', 
         'intiface-central/brands/satisfyer', 
         'intiface-central/brands/thehandy',
         'intiface-central/brands/wevibe',
