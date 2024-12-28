@@ -1,6 +1,6 @@
 # MuSE and LoveSpouse
 
-## Does Intiface Support MuSE or LoveSpouse toys?
+## Does Intiface Support MuSE or LoveSpouse toys? NO.
 
 **No.** At this time, there is no plan to support MuSE or LoveSpouse toys in Intiface. 
 
